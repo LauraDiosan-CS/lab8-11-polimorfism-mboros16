@@ -1,0 +1,32 @@
+﻿  Autobuz.cpp
+  Avion.cpp
+  Client.cpp
+  Controller.cpp
+c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\repo.h(75): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\repo.h(74): note: while compiling class template member function 'int Repo<T>::getSize(void)'
+          with
+          [
+              T=Autobuz
+          ]
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\controller.cpp(15): note: see reference to function template instantiation 'int Repo<T>::getSize(void)' being compiled
+          with
+          [
+              T=Autobuz
+          ]
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\repofille.h(11): note: see reference to class template instantiation 'Repo<T>' being compiled
+          with
+          [
+              T=Autobuz
+          ]
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\controller.cpp(12): note: see reference to class template instantiation 'RepoFile<Autobuz>' being compiled
+  ProiectOOP.cpp
+  Service.cpp
+  TestAutobuz.cpp
+  TestAvion.cpp
+  TestRepo.cpp
+c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\repo.h(75): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\repo.h(74): note: while compiling class template member function 'int Repo<Autobuz>::getSize(void)'
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\testrepo.cpp(13): note: see reference to function template instantiation 'int Repo<Autobuz>::getSize(void)' being compiled
+  c:\users\mboro\onedrive\desktop\faculta\oop\oopultim\oopultim\testrepo.cpp(10): note: see reference to class template instantiation 'Repo<Autobuz>' being compiled
+  Generating Code...
+  oopultim.vcxproj -> C:\Users\mboro\OneDrive\Desktop\faculta\oop\oopUltim\x64\Debug\oopultim.exe

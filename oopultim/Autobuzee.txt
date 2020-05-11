@@ -1,0 +1,8 @@
+39g0 Constanta Brasov 15.07.2020 1  40 24
+
+40g0 Braila Valcea 16.07.2020 1  20 16
+
+35v0 Suceava Bucurest 16.09.2020 2  100 26
+
+129j Valcea Pitesti 15.07.2020 1  10 10
+

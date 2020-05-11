@@ -1,0 +1,136 @@
+﻿  Client.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4495,37): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4543): message : see reference to function template instantiation 'std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>,std::allocator<char>>(std::basic_istream<char,std::char_traits<char>> &&,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' being compiled
+C:\Users\mboro\source\repos\oopultim\oopultim\Client.h(24): message : see reference to function template instantiation 'std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>,std::allocator<char>>(std::basic_istream<char,std::char_traits<char>> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4495,1): error C2061: syntax error: identifier '_Ctype'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4499,21): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4499,1): error C2065: 'iostate': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4499,29): error C2146: syntax error: missing ';' before identifier '_State'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4499,29): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4499,45): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4499,1): error C2065: 'goodbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4501,27): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4501,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4501,34): error C2146: syntax error: missing ';' before identifier '_Ok'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4501,34): error C3861: '_Ok': identifier not found
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4503,9): error C2065: '_Ok': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4504,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4504,21): error C2143: syntax error: missing ';' before '&'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4504,23): error C2065: '_Ctype_fac': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4504,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4504,41): error C2672: 'std::use_facet': no matching overloaded function found
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4504,1): error C2974: 'std::use_facet': invalid template argument for '_Facet', type expected
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(145): message : see declaration of 'std::use_facet'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4509,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4510,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4515,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4517,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4519,17): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4519,34): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4519,1): error C2065: 'eofbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4521,24): error C2065: '_Ctype_fac': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4521,1): error C2825: '_Ctype': must be a class or namespace when followed by '::'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4521,46): error C2510: '_Ctype': left of '::' must be a class/struct/union
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4521,1): error C2065: 'space': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4528,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4528,9): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4528,1): error C2065: 'badbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4531,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4533,9): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4533,26): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4533,1): error C2065: 'failbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4536,1): error C2027: use of undefined type 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(216): message : see declaration of 'std::basic_istream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4536,20): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(430,23): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(4549): message : see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::_Insert_string<char,std::char_traits<char>,unsigned int>(std::basic_ostream<char,std::char_traits<char>> &,const _Elem *const ,const _SizeT)' being compiled
+          with
+          [
+              _Elem=char,
+              _SizeT=unsigned int
+          ]
+C:\Users\mboro\source\repos\oopultim\oopultim\Client.cpp(63): message : see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,std::allocator<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(430,1): error C2065: 'iostate': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(430,31): error C2146: syntax error: missing ';' before identifier '_State'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(430,31): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(430,49): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(430,1): error C2065: 'goodbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(433,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(436,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(439,29): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(439,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(439,36): error C2146: syntax error: missing ';' before identifier '_Ok'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(439,36): error C3861: '_Ok': identifier not found
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(441,10): error C2065: '_Ok': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(442,9): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(442,28): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(442,1): error C2065: 'badbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(445,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(445,39): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(445,1): error C2065: 'adjustfield': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(445,64): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(445,1): error C2065: 'left': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(447,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(447,1): error C2660: 'std::_Narrow_char_traits<char,int>::eq_int_type': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(396,38): message : see declaration of 'std::_Narrow_char_traits<char,int>::eq_int_type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(448,21): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(448,40): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(448,1): error C2065: 'badbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(454,13): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(454,32): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(454,1): error C2065: 'goodbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(455,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(456,13): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(456,32): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(456,1): error C2065: 'badbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(459,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(459,1): error C2660: 'std::_Narrow_char_traits<char,int>::eq_int_type': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(396,38): message : see declaration of 'std::_Narrow_char_traits<char,int>::eq_int_type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(460,21): error C2065: '_State': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(460,40): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(460,1): error C2065: 'badbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(466,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(467,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(467,9): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(467,1): error C2065: 'badbit': undeclared identifier
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(470,1): error C2027: use of undefined type 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\iosfwd(217): message : see declaration of 'std::basic_ostream<char,std::char_traits<char>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xstring(470,20): error C2065: '_State': undeclared identifier
+  Controller.cpp
+  ProiectOOP.cpp
+  Service.cpp
+  TestRepo.cpp
+  Generating Code...
