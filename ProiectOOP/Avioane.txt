@@ -1,0 +1,4 @@
+41v0 Constanta Brasov 15.07.2020 DA 40 20
+42v0 Braila Valcea 16.07.2020 NU 20 10
+43v0 Suceava Bucuresti 16.09.2020 DA 100 10
+44v0 Valcea Pitesti 15.07.2020 NU 10 5
